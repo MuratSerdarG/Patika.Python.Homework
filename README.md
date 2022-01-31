@@ -3,7 +3,7 @@
 ## Konu : Python
 
 #### 1. Sorunun cevabı için :
-- 1- Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir.
+- Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir.
 ```
 alpha = []
 x=[[1,'a',['cat'],2],[[[3]],'dog'],4,5]
