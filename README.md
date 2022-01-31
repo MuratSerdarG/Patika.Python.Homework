@@ -1,5 +1,5 @@
 # Proje Sahibi: Patika.Dev 
-# Proje Konusu: Python
+# Proje Konusu: Veri Yapıları ve Algoritmalar
 ## Konu : Python
 
 #### 1. Sorunun cevabı için :
